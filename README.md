@@ -1,1 +1,1 @@
-"# guitar_hero em C, utilizando a biblioteca Allegro"  
+"# guitar hero em C, utilizando a biblioteca Allegro"
